@@ -21,9 +21,6 @@ cd C:\xampp\htdocs
 # Clone this repository 
 git clone https://github.com/dindafarras/VolHub
 
-# Go to the repository folder
-cd kasatalk
-
 # Install Composer
 composer Install
 
@@ -50,6 +47,8 @@ php artisan serve
 
 ##How to login for admin
 ```
-#insert manual your username into database
-#go to [Bcrypt](https://bcrypt-generator.com/) for hashing your password
-#then copy the result of hashing and insert into password column in table admin
+insert manual your username into database
+
+go to [Bcrypt](https://bcrypt-generator.com/) for hashing your password
+
+then copy the result of hashing and insert into password column in table admin
