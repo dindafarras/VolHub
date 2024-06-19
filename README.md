@@ -45,8 +45,8 @@ php artisan serve
 
 * Open http://127.0.0.1:8000 with your browser to see the result
 
-##How to login for admin
-```
+## How to login for admin
+
 insert manual your username into database
 
 go to [Bcrypt](https://bcrypt-generator.com/) for hashing your password
